@@ -1,50 +1,35 @@
 ### Hi there 👋
 
 # Vitovt
-**Languages**: English(Fluent), Ukrainian(native), Russian(Fluent)
+I am an infrastructure / DevOps engineer with a deep hands-on background in Linux, networking, systems administration, monitoring, recovery, and integration-heavy production environments.
 
-## Education
+I like building systems that stay stable under pressure. I pay attention to weak points early. I care about rollback paths, recovery, observability, and the small technical details that decide whether production stays healthy or starts to drift.
 
-**Master of Science** in **Radiophysic and Electronic** Science
-Specialization: Research engineer - radiophysics and electronics
+I started with networking and security, moved deeper into Linux systems and business-critical infrastructure, and kept growing into automation, release discipline, monitoring, and cross-system integration. I work best where engineering stays practical and the system matters more than the buzzwords around it.
 
-Kyiv Taras Shevchenko National University, Kyiv, Ukraine.
+I also enjoy building small useful tools. Many of my repositories come from real needs: monitoring, network visibility, automation, browser helpers, teaching tools, and AI-assisted workflows that save time without replacing engineering judgment.
 
-Graduated **Magna Cum Laude**.
+If you work on infrastructure, automation, observability, or messy real-world systems, I can probably help. If you have strong ideas, hard problems, or a sharper way to build things, I am happy to learn from that too.
 
-## Certifications
-CCSP — Cisco Security Professional (Outdated)
+## What I Work With
 
-Administering Windows Server
+- Linux administration, troubleshooting, Bash, scripting
+- Monitoring, alerting, backups, recovery, rollback thinking
+- Routing, VPN, mixed-vendor networking, VoIP
+- Virtualization and hybrid Linux / Windows infrastructure
+- Docker, Ansible, Terraform, Kubernetes-related tooling
+- PHP, Go, Python, SQL, PostgreSQL, MySQL, MariaDB
+- CRM / ERP / telephony / analytics integrations
+- API logic, technical specifications, and system-facing product work
+- AI-assisted engineering workflows for research, prototyping, refactoring, and automation
 
-## Courses
-CEO – business management course. 2020-2021 (100 hours of lection. 100 hours of practice.)
+## What You Will Find Here
 
-DevOps - Prometheus DevOps course. 2023 - 2024. 
-  
-
-## Technical Skills (briefly)
-
-**Linux/Unix** **server administration**: Web Servers (LAMP, LNMP), VOIP (Asterisk), Mail, File, 1C, Virtualisation, Optimization, Penetration protection and Rescue, High load tuning, and Automatization/Scripting.
-
-**Network**: Strong network routing and switching knowledge in Cisco, Huawei, Juniper, Mikrotik, Linux, and BSD.
-
-**Windows** **server** administration: Active Directory, MS SQL and IIS
-
-**Programming****:** PHP, JavaScript, MySQL, Embedded (Assembler, C), Python
-
-**CMS:** Drupal, Joomla, Wordpress, Opencart
-
-  
-
-## Managerial Experience (briefly)
-
-**Product management:** Task prioritization, working with backlog, and identifying key business objectives.
-
-**Sales**: Negotiations with suppliers and contractors, and problem situation management.
-
-**Management** of employees and departments, including hiring and firing employees, speeches, public appearances, drawing up plans and technical specifications, setting and controlling tasks by employees, contractors, and freelancers, management of sales, description of business processes, writing job instructions, motivation systems, and BPM integration.
-
+- Practical utilities for monitoring and observability
+- Automation scripts and infrastructure helpers
+- Networking and Linux-related tools
+- A few teaching-oriented and simulation projects
+- Experiments that help me learn modern DevOps tooling in a hands-on way
 
 
 ## Hobbies and Social activity
@@ -52,6 +37,8 @@ DevOps - Prometheus DevOps course. 2023 - 2024.
 **Teaching:** My hobby is to teach creative thinking using physics as an example. I worked part-time teacher of physics and computer science in secondary school. Also taught course of soldering and modeling radioelectronic circuits.
 
 ## Additionally
+
+I speak: English, German, Ukrainiain, Russian
 
 I'm good at understanding different technologies and the business side of things. This mix allows me to analyze problems and situations from various angles and provide effective solutions that combine different aspects of IT, technology, and human resources. I'm also skilled at encouraging effective communication and collaboration among diverse teams and have a proven history of successfully completing projects.
 
