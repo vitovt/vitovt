@@ -13,15 +13,15 @@ If you work on infrastructure, automation, observability, or messy real-world sy
 
 ## What I Work With
 
+- Docker, Ansible, Terraform, Kubernetes-related tooling
+- PHP, Go, Python, SQL, PostgreSQL, MySQL, MariaDB
+- AI-assisted engineering workflows for research, prototyping, refactoring, and automation
+- API logic, technical specifications, and system-facing product work
 - Linux administration, troubleshooting, Bash, scripting
 - Monitoring, alerting, backups, recovery, rollback thinking
 - Routing, VPN, mixed-vendor networking, VoIP
 - Virtualization and hybrid Linux / Windows infrastructure
-- Docker, Ansible, Terraform, Kubernetes-related tooling
-- PHP, Go, Python, SQL, PostgreSQL, MySQL, MariaDB
 - CRM / ERP / telephony / analytics integrations
-- API logic, technical specifications, and system-facing product work
-- AI-assisted engineering workflows for research, prototyping, refactoring, and automation
 
 ## What You Will Find Here
 
